@@ -1,6 +1,6 @@
 {
   "name": "Frontend",
   "tagline": "Just Learn The Skills",
-  "body": "[test](https://github.com/AlohaJack/FrontEnd/blob/master/first.html)",
+  "body": "[test](./first.html)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
